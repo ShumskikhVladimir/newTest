@@ -8,10 +8,6 @@ public class Main {
         bigCat.setName("Pushok");
         System.out.println("The name of big cat is " + bigCat.getName());
         System.out.println("The name of big cat is " + bigCat.getName());
-        System.out.println("The name of big cat is " + bigCat.getName());
-        System.out.println("The name of big cat is " + bigCat.getName());
-        System.out.println("The name of big cat is " + bigCat.getName());
-
         System.out.println("The name of small cat is " + smallCat.getName());
     }
 }
